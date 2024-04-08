@@ -7,7 +7,7 @@ import writer from '../../Assets/Projects/Content-writer-1068x561.jpg'
 import annotation from '../../Assets/Projects/featured_ai_data_solutions.jpeg'
 import faceRecog from '../../Assets/Projects/Blog-Facial-recognition-tech-in-the-workplace.png'
 import dataAnalyst from '../../Assets/Projects/0_RC41_1dzkTm_zMeF.jpg'
-import ml from '../../Assets/Projects/1_cG6U1qstYDijh9bPL42e-Q.jpg'
+// import ml from '../../Assets/Projects/1_cG6U1qstYDijh9bPL42e-Q.jpg'
 function Projects() {
     return (
         <Container fluid className="project-section">
