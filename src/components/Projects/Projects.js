@@ -7,7 +7,7 @@ import writer from '../../Assets/Projects/Content-writer-1068x561.jpg'
 import annotation from '../../Assets/Projects/featured_ai_data_solutions.jpeg'
 import faceRecog from '../../Assets/Projects/Blog-Facial-recognition-tech-in-the-workplace.png'
 import dataAnalyst from '../../Assets/Projects/0_RC41_1dzkTm_zMeF.jpg'
-// import ml from '../../Assets/Projects/1_cG6U1qstYDijh9bPL42e-Q.jpg'
+import ml from '../../Assets/Projects/1_cG6U1qstYDijh9bPL42e-Q.jpg'
 function Projects() {
     return (
         <Container fluid className="project-section">
@@ -68,15 +68,15 @@ function Projects() {
                             demoLink="#"
                         />
                     </Col>
-                    // <Col md={4} className="project-card">
-                    //     <ProjectCard
-                    //         imgPath={ml}
-                    //         isBlog={false}
-                    //         title="Machine Learning"
-                    //         description="I have complete many course and practicing on building the model to test the data on kaggle and machinehack, I also seek help from geekforgeek, javatpoint and some community that suppose to face the same problem I am looking for."
-                    //         demoLink="#"
-                    //     />
-                    // </Col>
+                    {/* <Col md={4} className="project-card">
+                         <ProjectCard
+                             imgPath={ml}
+                             isBlog={false}
+                             title="Machine Learning"
+                             description="I have complete many course and practicing on building the model to test the data on kaggle and machinehack, I also seek help from geekforgeek, javatpoint and some community that suppose to face the same problem I am looking for."
+                             demoLink="#"
+                         />
+                    /* </Col>}
                 </Row>
             </Container>
         </Container>
