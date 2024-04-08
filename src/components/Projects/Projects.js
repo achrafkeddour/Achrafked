@@ -68,15 +68,15 @@ function Projects() {
                             demoLink="#"
                         />
                     </Col>
-                    <Col md={4} className="project-card">
-                        <ProjectCard
-                            imgPath={ml}
-                            isBlog={false}
-                            title="Machine Learning"
-                            description="I have complete many course and practicing on building the model to test the data on kaggle and machinehack, I also seek help from geekforgeek, javatpoint and some community that suppose to face the same problem I am looking for."
-                            demoLink="#"
-                        />
-                    </Col>
+                    // <Col md={4} className="project-card">
+                    //     <ProjectCard
+                    //         imgPath={ml}
+                    //         isBlog={false}
+                    //         title="Machine Learning"
+                    //         description="I have complete many course and practicing on building the model to test the data on kaggle and machinehack, I also seek help from geekforgeek, javatpoint and some community that suppose to face the same problem I am looking for."
+                    //         demoLink="#"
+                    //     />
+                    // </Col>
                 </Row>
             </Container>
         </Container>
