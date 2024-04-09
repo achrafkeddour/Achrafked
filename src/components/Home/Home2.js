@@ -35,7 +35,7 @@ function Home2() {
                             <br />
                             <br />I am looking for developing myself and improve
                             my skills <br />
-                            <br /> I am an Contributor 
+                            <br /> I am an
                             <i>
                                 <b className="purple"> Open Source </b>Contributor 
                             </i>
